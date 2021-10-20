@@ -217,5 +217,19 @@
     
   }
 
+@media screen and (max-width: 760px){
+    .playlist {
+      width: 300px;
+      justify-content: center;
+
+    }
+    .dashboard {
+      width: 93%;
+    }
+    .song .thumb {
+      width: 30%;
+    }
+  }
+
   
   
