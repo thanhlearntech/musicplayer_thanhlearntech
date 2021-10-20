@@ -60,8 +60,8 @@ const app = {
         {
             name: 'Unbroken',
             singer: 'LOCKBOX',
-            path: '../MusicFolder/Unbroken (LOCKBOX Remix).mp3',
-            image: '../MusicFolder/T.png'
+            path: './MusicFolder/Unbroken (LOCKBOX Remix).mp3',
+            image: './MusicFolder/T.png'
         },
         {
             name: 'Unbroken',
